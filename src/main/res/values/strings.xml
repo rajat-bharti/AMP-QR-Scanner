@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AMP QR Scanner</string>
+    <string name="open">open</string>
+    <string name="cancel">Cancel</string>
+    <string name="choose_title">Open URL with</string>
+    <string name="Title">Data from Scan</string>
+    <string name="copy">Copy text</string>
+    <string name="validate">Validate link</string>
+    <string name="retrieve">Retrieve the result</string>
+    <string name="result">Get Result</string>
+    <string name="logo_description">Logo of the app</string>
+    <string name="button_scan">Scan QR Code</string>
+    <string name="button_image">Scan QR Image</string>
+    <string name="permission_denied">Permission Denied.</string>
+    <string name="submit">Submit</string>
+    <string name="password">Enter the Password</string>
+    <string name="enter">Enter here</string>
+    <string name="generator">Generate QR Code</string>
+    <string name="genpass">Generate with Key</string>
+    <string name="Redirect">The url is redirecting to</string>
+</resources>
